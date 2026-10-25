@@ -9,20 +9,6 @@ This branch (`c_lang-bootcamp`) contains all labs, assignments, and small securi
 
 Everything is built using GCC.
 
-
-### Compiling Any File
-
-To compile a source file, run:
-
-```bash
-# Windows
-gcc filename.c -o filename.exe
-
-
-```
-
-Always test the compiled program locally and check for compiler warnings (`-Wall`) before committing.
-
 ---
 
 ## Author
